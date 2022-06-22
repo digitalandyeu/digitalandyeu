@@ -128,5 +128,10 @@
     "name": "UpWork",
     "url": "https://www.upwork.com/freelancers/~0191094db3878bb0bd",
     "weight": 3
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io/digitalandy",
+    "weight": 3
   }
 ]
