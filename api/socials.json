@@ -1,0 +1,107 @@
+[
+  {
+    "name" : "Facebook",
+    "url": "https://www.facebook.com/digitalandy.eu",
+    "fav" : true
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/digitalandyeu",
+    "fav" : true
+  },
+  {
+    "name": "Dribble",
+    "url": "https://dribbble.com/digitalandyeu",
+    "fav" : true
+  },
+  {
+    "name": "UI8 Marketplace",
+    "url": "https://ui8.net/users/digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "Instagram",
+    "url": "https://www.instagram.com/digitalandy.eu",
+    "fav" : false
+  },
+  {
+    "name" : "LinkedIn",
+    "url" : "https://www.linkedin.com/company/digitalandy-eu",
+    "fav" : false
+  },
+  {
+    "name" : "Twitter",
+    "url" : "https://twitter.com/digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "Telegram",
+    "url" : "https://t.me/digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "Behance",
+    "url" : "https://www.behance.net/digitalandy",
+    "fav" : false
+  },
+  {
+    "name" : "Vkontakte",
+    "url" : "https://vk.com/digitalandy",
+    "fav" : false
+  },
+  {
+    "name" : "DeviantArt",
+    "url" : "https://www.deviantart.com/digitanandy",
+    "fav" : false
+  },
+  {
+    "name" : "Pinterest",
+    "url" : "https://pinterest.com/digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "Tumblr",
+    "url" : "https://www.tumblr.com/blog/view/digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "YouTube",
+    "url" : "https://www.youtube.com/channel/UC_YnFjMyqrT9f6zFBGzVhhA",
+    "fav" : false
+  },
+  {
+    "name" : "Vimeo",
+    "url" : "https://vimeo.com/digitalandyeuvimeo",
+    "fav" : false
+  },
+  {
+    "name" : "Habr.com",
+    "url" : "https://habr.com/en/users/digitalandy",
+    "fav" : false
+  },
+  {
+    "name" : "TikTok",
+    "url" : "https://www.tiktok.com/@digitalandyeu",
+    "fav" : false
+  },
+  {
+    "name" : "Vc.ru",
+    "url" : "https://vc.ru/u/1227484-digitalandy-eu",
+    "fav" : false
+  },
+  {
+    "name" : "WordPress.com",
+    "url" : "https://digitalandyeu.wordpress.com",
+    "fav" : false
+  },
+  {
+    "name": "CreativeMarket",
+    "url": "https://creativemarket.com/users/digitalandy.eu",
+    "fav" : false
+  },
+  {
+    "name": "Google Organization",
+    "url": "https://goo.gl/maps/sYm2HyTJMyTi7U9B8",
+    "fav" : false
+  }
+]
