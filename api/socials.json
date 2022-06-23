@@ -105,6 +105,11 @@
     "weight": 3
   },
   {
+    "name": "UpLabs",
+    "url": "https://www.uplabs.com/digitalandyeu",
+    "weight": 3
+  },
+  {
     "name": "dev.to",
     "url": "https://dev.to/digitalandy",
     "weight": 3
@@ -132,6 +137,56 @@
   {
     "name": "CodePen",
     "url": "https://codepen.io/digitalandy",
+    "weight": 3
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com/users/11975609/digitalandy",
+    "weight": 3
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/digitalandy",
+    "weight": 3
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/@digitalandy",
+    "weight": 3
+  },
+  {
+    "name": "GumRoad",
+    "url": "https://digitalandyeu.gumroad.com/",
+    "weight": 3
+  },
+  {
+    "name": "PayHip",
+    "url": "https://payhip.com/digitalandy",
+    "weight": 3
+  },
+  {
+    "name": "Freepik",
+    "url": "https://www.freepik.com/digitalandyeu",
+    "weight": 3
+  },
+  {
+    "name": "Digg.com",
+    "url": "https://digg.com/@digital-andy",
+    "weight": 3
+  },
+  {
+    "name": "ThemeForest",
+    "url": "https://themeforest.net/user/digitalandyeu",
+    "weight": 3
+  },
+  {
+    "name": "TemplateMonster",
+    "url": "https://www.templatemonster.com/authors/digitalandy/",
+    "weight": 3
+  },
+  {
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/digitalandy",
     "weight": 3
   }
 ]
