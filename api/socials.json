@@ -188,5 +188,10 @@
     "name": "Awwwards",
     "url": "https://www.awwwards.com/digitalandy",
     "weight": 3
+  },
+  {
+    "name": "Packagist (Personal)",
+    "url": "https://packagist.org/packages/andriilive/",
+    "weight": 3
   }
 ]

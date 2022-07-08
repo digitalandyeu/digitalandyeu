@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Andrii Ivashchuk",
+    "slug": "andriilive",
+    "desc": "Lead developer",
+    "tags": [
+      "dev"
+    ],
+    "socials": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/andriilive"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/andriilive"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/andriilive"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/andrii_live"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/andyivashchuk/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/andrii.live/"
+      }
+    ]
+  }
+]
