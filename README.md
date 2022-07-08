@@ -4,4 +4,4 @@
 
 - [Contacts](https://digitalandyeu.github.io/digitalandyeu/api/contacts.json)
 - [Team](https://digitalandyeu.github.io/digitalandyeu/api/team.json)
-- [Team](https://digitalandyeu.github.io/digitalandyeu/api/socials.json)
+- [Socials](https://digitalandyeu.github.io/digitalandyeu/api/socials.json)

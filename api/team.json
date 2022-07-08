@@ -8,28 +8,37 @@
     ],
     "socials": [
       {
-        "name": "GitHub",
-        "url": "https://github.com/andriilive"
+        "text": "GitHub",
+        "href": "https://github.com/andriilive",
+        "weight": 1,
+        "title" : ""
       },
       {
-        "name": "Telegram",
-        "url": "https://t.me/andriilive"
+        "text": "Facebook",
+        "href": "https://www.facebook.com/andriilive",
+        "weight": 1,
+        "title" : ""
       },
       {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/andriilive"
+        "text": "LinkedIn",
+        "weight": 1,
+        "href": "https://www.linkedin.com/in/andyivashchuk/",
+        "title" : ""
       },
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/andrii_live"
+        "text": "Telegram",
+        "href": "https://t.me/andriilive",
+        "title" : ""
       },
       {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/andyivashchuk/"
+        "text": "Twitter",
+        "href": "https://twitter.com/andrii_live",
+        "title" : ""
       },
       {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/andrii.live/"
+        "text": "Instagram",
+        "href": "https://www.instagram.com/andrii.live/",
+        "title" : ""
       }
     ]
   }
