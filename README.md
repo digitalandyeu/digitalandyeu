@@ -1,5 +1,4 @@
-# digitalandyeu
-
+# DigitalAndy.eu | Web Development, Design & Marketing
 
 ## Public Data (JSON)
 
