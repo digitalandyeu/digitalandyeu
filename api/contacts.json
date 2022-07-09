@@ -1,5 +1,14 @@
-{
-  "email" : "hi@digitalandy.eu",
-  "telegram" : "https://t.me/andriilive",
-  "messenger": "https://m.me/digitalandy.eu"
-}
+[
+  {
+    "text": "email",
+    "href": "hi@digitalandy.eu"
+  },
+  {
+    "text": "telegram",
+    "href": "https://t.me/andriilive"
+  },
+  {
+    "text": "facebook-messenger",
+    "href": "https://m.me/digitalandy.eu"
+  }
+]
