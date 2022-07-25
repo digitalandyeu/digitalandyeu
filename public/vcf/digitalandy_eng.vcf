@@ -7,21 +7,23 @@ ORG:DigitalAndy.eu 🧑🏻‍💻 (Web Dev / Design / Markering);
 TITLE:Websites Development / Design / Markering
 item1.EMAIL;type=INTERNET;type=pref:hi@digitalandy.eu
 item1.X-ABLabel:Рабочие контакты
+item2.EMAIL;type=INTERNET:digitalandyeu@gmail.com
+item2.X-ABLabel:_$!<Other>!$_
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+420 777 473 939
 ADR;type=WORK;type=pref:;;Jaromirova 520;Prague;;12800;Czech Republic
 NOTE:👨🏻‍💻 Websites development\n⚡️IT support for online sales\n✍🏻UX\, UI & Graphical Design\n🎯Online Marketing\n\nRegistered in Prague\, Czech Republic since 2021\nIČ: 07812761. Neplatce DPH
-item2.URL;type=pref:vk.com/digitalandy
-item2.X-ABLabel:Vkontakte
-item3.URL:facebook.com/digitalandy.eu
-item3.X-ABLabel:Facebook
-item4.URL:dribbble.com/digitalandyeu
-item4.X-ABLabel:Dribble
-item5.URL:github.com/digitalandyeu
-item5.X-ABLabel:Github
-item6.URL:instagram.com/digitalandy.eu
-item6.X-ABLabel:Instagram
-item7.URL:digitalandy.eu
-item7.X-ABLabel:Web
+item3.URL;type=pref:vk.com/digitalandy
+item3.X-ABLabel:Vkontakte
+item4.URL:facebook.com/digitalandy.eu
+item4.X-ABLabel:Facebook
+item5.URL:dribbble.com/digitalandyeu
+item5.X-ABLabel:Dribble
+item6.URL:github.com/digitalandyeu
+item6.X-ABLabel:Github
+item7.URL:instagram.com/digitalandy.eu
+item7.X-ABLabel:Instagram
+item8.URL:digitalandy.eu
+item8.X-ABLabel:Web
 IMPP;X-SERVICE-TYPE=Telegram;type=HOME;type=pref:x-apple:https%3A//t.me/andriilive
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4QBsRXhpZgAASUkqAAgA
  AAADADEBAgAHAAAAMgAAABICAwACAAAAAgACAGmHBAABAAAAOgAAAAAAAABHb29nbGUAAAMAAJ
