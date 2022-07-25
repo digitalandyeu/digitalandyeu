@@ -5,4 +5,6 @@
 - [Contacts](https://digitalandyeu.github.io/digitalandyeu/api/contacts.json)
 - [Team](https://digitalandyeu.github.io/digitalandyeu/api/team.json)
 - [Socials](https://digitalandyeu.github.io/digitalandyeu/api/socials.json)
-- vCards: [ENG](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_eng.vcf) | [RU](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_ru.vcf)
+- Org vCards:
+  - [EMG](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_eng.vcf)
+  - [RU](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_ru.vcf)
