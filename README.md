@@ -7,6 +7,9 @@
 - [Contacts](https://digitalandyeu.github.io/digitalandyeu/api/contacts.json)
 - [Team](https://digitalandyeu.github.io/digitalandyeu/api/team.json)
 - [Socials](https://digitalandyeu.github.io/digitalandyeu/api/socials.json)
+- [Partners](https://digitalandyeu.github.io/digitalandyeu/api/socials.json)
+- [Team](https://digitalandyeu.github.io/digitalandyeu/api/team.json)
 - Organisation vCards:
   - [English](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_eng.vcf)
   - [Russian](https://digitalandyeu.github.io/digitalandyeu/public/vcf/digitalandy_ru.vcf)
+- [Reviews](https://digitalandyeu.github.io/digitalandyeu/api/reviews.json)
