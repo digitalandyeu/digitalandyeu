@@ -3,6 +3,7 @@
     "text": "Facebook",
     "href": "https://www.facebook.com/digitalandy.eu",
     "title": "Read news and subscribe at our Facebook organisation page",
+    "lang": "cz",
     "weight": 1
   },
   {
@@ -45,6 +46,7 @@
     "text": "Vkontakte",
     "href": "https://vk.com/digitalandy",
     "title": "",
+    "lang": "ru",
     "weight": 2
   },
   {
@@ -237,6 +239,27 @@
     "text": "Google Developers",
     "href": "https://g.dev/digitalandy",
     "title": "",
+    "weight": 3
+  },
+  {
+    "text": "Ok.ru profile",
+    "href": "https://ok.ru/andriilive",
+    "title": "",
+    "lang": "ru",
+    "weight": 3
+  },
+  {
+    "text": "Ok.ru group",
+    "href": "https://ok.ru/andriilive",
+    "title": "",
+    "lang": "ru",
+    "weight": 3
+  },
+  {
+    "text": "livejournal",
+    "href": "https://digitalandy.livejournal.com/",
+    "title": "",
+    "lang": "ru",
     "weight": 3
   }
 ]

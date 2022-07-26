@@ -1,8 +1,9 @@
 [
   {
     "fullName": "Andrii Ivashchuk",
-    "slug": "andriilive",
-    "desc": "Lead developer",
+    "slug": "andrii-ivashchuk",
+    "desc": "Fullstack lead developer",
+    "CV" : "",
     "tags": [
       "dev"
     ],
